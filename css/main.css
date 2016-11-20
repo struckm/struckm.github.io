@@ -1,4 +1,6 @@
 html body {
+    margin: 0;
+    padding: 0;
     color: #3a3d45;
     background-color: #fff;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -9,4 +11,5 @@ html body {
 
 #header {
     background-color: #0f1621;
+    color: #fff;
 }
