@@ -1,0 +1,12 @@
+html body {
+    color: #3a3d45;
+    background-color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 38px;
+}
+
+#header {
+    background-color: #0f1621;
+}
